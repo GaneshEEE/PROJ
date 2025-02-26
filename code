@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email UI</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4;">
+    <div style="max-width: 600px; margin: 20px auto; background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+        <h2 style="text-align: center; color: #333;">Inbox</h2>
+        <div style="border-bottom: 1px solid #ddd; padding: 10px;">
+            <strong>John Doe</strong> - <span style="color: #888;">Subject: Meeting Update</span>
+            <p style="margin: 5px 0; color: #555;">Hey, just a quick update.</p>
+        </div>
+        <div style="border-bottom: 1px solid #ddd; padding: 10px;">
+            <strong>Jane Smith</strong> - <span style="color: #888;">Subject: Project Deadline</span>
+            <p style="margin: 5px 0; color: #555;">The final deadline for the project has been extended</p>
+        </div>
+        <div style="padding: 10px;">
+            <strong>Michael Lee</strong> - <span style="color: #888;">Subject: Plans</span>
+            <p style="margin: 5px 0; color: #555;">Are we still on?</p>
+        </div>
+    </div>
+</body>
+</html>
